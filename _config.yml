@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Chun's Machine Learning Page"
+title                    : "Denise Machine Learning Page"
 title_separator          : "-"
-name                     : "Trung Tran"
+name                     : "Denise Chen"
 description              : "Page of a deep learning's enthuasiast."
-url                      : "https://ChunML.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/ChunML.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "ChunML/ChunML.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://denisechendd.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/denisechendd.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "denisechendd/denisechendd.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "chunml" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "denisechendd" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Trung Tran"
+  name             : "Denise Chen"
   avatar           : "bio-photo.jpg"
-  bio              : "GearHead & Deep Learning Enthusiast"
-  location         : "Tokyo, Japan"
-  email            : "chunml.techexplained@gmail.com"
+  bio              : "Ambitious & Deep Learning Enthusiast"
+  location         : "Ottawa, Canada"
+  email            : "denisechendd@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,22 +89,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ChunML"
-  google_plus      : "TrungTran_chunml"
+  github           : "Denisechendd"
+  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "chunml"
+  linkedin         : "Denise Chen"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "chunmlpage"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          :
 
 
 # Reading Files
@@ -239,7 +239,7 @@ defaults:
       author_profile: false
       share: true
       sidebar:
-        nav: "posts"      
+        nav: "posts"
 
 
 # Sass/SCSS

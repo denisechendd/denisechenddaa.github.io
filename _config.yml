@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Denise Chen"
 description              : "Page of a deep learning's enthuasiast."
 url                      : "https://denisechendd.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/denisechendd.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://denisechendd.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "denisechendd/denisechendd.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/denisechendd/Project"
+  github           : "denisechendd/Project"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/denise-chen-profile/"
+  linkedin         : "/denise-chen-profile/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)

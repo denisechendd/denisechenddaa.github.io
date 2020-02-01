@@ -9,10 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data scientist at [Biobot Analytics](www.biobot.io), a startup measuring opioid concentrations in sewers to map consumption in cities.
+I'm a data scientist at Statistics Canada.
 As their first full-time data scientist, I lead our analytics and visualization efforts, and ensure customer success by communicating the value of our data to our customers.
-Before joining Biobot, I received my PhD from the Department of Biological Engineering at MIT.
-I worked in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
+Before joining Statistics Canada, I received my Master Degree in Computer Science, Big Data at Simon Fraser University (SFU).
 
 More broadly, I'm interested in applying **personalized medicine approaches for public health**.
 I'm also passionate about making local impact to move our society toward a more just ideal.

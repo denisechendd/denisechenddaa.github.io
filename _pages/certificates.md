@@ -1,6 +1,6 @@
 ---
 title: "Certificates of online courses"
-permalink: /travel/
+permalink: /certificates/
 author_profile: true
 ---
 

@@ -8,13 +8,13 @@ author_profile: true
 
 **May, 2019 (DataCamp)**
 
-<img src="/images/Online_certi/certificate.jpg" width="45%">
+<img src="/images/Online_certi/certificate.jpg" width="80%" height="80%">
 
 ## Advanced Deep Learning with Keras in Python
 
 **May, 2019 (DataCamp)**
 
-<img src="/images/Online_certi/certificate_1.jpg" width="45%">
+<img src="/images/Online_certi/certificate_1.jpg" width="80%" height="80%">
 
 ## June 2
 

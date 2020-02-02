@@ -1,12 +1,14 @@
 # Notes for me
 
-**Info about which pages to edit** is in `_pages/markdown.md`
+**Change content of topbar pages content** is in `_pages/ (folder)`
 
 **Change content of main landing page** in `_pages/about.md`.
 
 **Change sidebar content** in `_config.yml`
 
 **Change how sidebar shows up** in `_includes/author-profile.html`
+
+**Change how topbar shows up** in `_data/navigation.yml`
 
 **To run the site locally**, run `bundle exec jekyll serve`
 

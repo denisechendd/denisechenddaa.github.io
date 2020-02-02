@@ -4,33 +4,17 @@ permalink: /travel/
 author_profile: true
 ---
 
-## June 4
+## Deep Learning in Python
 
-**San Diego, CA --> Boston, MA**
+**May, 2019 (DataCamp)**
 
-My original flight was cancelled so I got to rebook on an earlier flight with my favorite route: layover in Austin, TX! So, of course, I did what one _must_ do there and got Tacodeli and Amy's ice cream. What joy.
+<img src="/images/Online_certi/certificate.jpg" width="45%">
 
-<img src="/images/2019/road-trip/2019-06-04_austin_airport_feast.jpg" width="45%">
+## Advanced Deep Learning with Keras in Python
 
-Ben picked me up at the airport and... that's it! The end of a truly wonderful trip. So many people have been saying "wow, what a once-in-a-lifetime trip" -- to which my response is "hopefully not." Because if there's one thing I've learned on this trip, apart from the definitive fact that I do indeed get hangry, it's that there's still so much more to see.
+**May, 2019 (DataCamp)**
 
-<img src="/images/2019/road-trip/part1_overview.png" width="45%"> <img src="/images/2019/road-trip/part2_overview.png" width="45%">
-
-## June 3
-
-**San Diego, CA**
-
-Spent the morning catching up on internet things, made my annual pilgrimage to the burrito place next to my parents' house for lunch, got the car washed, and bought some anti-scratch stuff for it.
-
-<img src="/images/2019/road-trip/2019-06-03_car_wash.jpg" width="80%">
-
-Got back home and marveled at the magic of Scratch X 2.0: I'd run into a lot of tree branches in my dirt road excursions, so the car looked like the entire passenger side had been thoroughly keyed. But the stuff magically took it off! SHEW!
-
-<img src="/images/2019/road-trip/2019-06-03_car_scratches.jpg" width="80%">
-
-More Mexican food for dinner (where the server asked if I was 18... -\_\_-), finished up packing, and a last sleep on this adventure.
-
-<img src="/images/2019/road-trip/2019-06-02_packing_initial.jpg" width="40%"> <img src="/images/2019/road-trip/2019-06-03_packing_final.jpg" width="40%">
+<img src="/images/Online_certi/certificate_1.jpg" width="45%">
 
 ## June 2
 

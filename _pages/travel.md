@@ -1,5 +1,5 @@
 ---
-title: "Road trip"
+title: "Certificates of online courses"
 permalink: /travel/
 author_profile: true
 ---

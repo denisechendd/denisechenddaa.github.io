@@ -1,13 +1,22 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/
+
   - title: "Blog"
     url: /blog/
 
-  - title: "Research"
-    url: /research/
+  # - title: "CV"
+  #   url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Career"
+  #   url: /career/
+
+  - title: "Certificates"
+    url: /certificates/
+
+  # - title: "Publications"
+  #   url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/
@@ -18,14 +27,7 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-  - title: "CV"
-    url: /cv/
+
 
 #  - title: "Guide"
 #    url: /markdown/
-
-  - title: "Career"
-    url: /career/
-
-  - title: "Certificates"
-    url: /certificates/

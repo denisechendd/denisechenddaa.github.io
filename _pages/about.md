@@ -9,20 +9,29 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data scientist at Statistics Canada.
-As their first full-time data scientist, I lead our analytics and visualization efforts, and ensure customer success by communicating the value of our data to our customers.
-Before joining Statistics Canada, I received my Master Degree in Computer Science, Big Data at Simon Fraser University (SFU).
+I'm a full-time data scientist at Statistics Canada.
+**My work responsibility is addressed in the following points**     
+* Machine Learning Model built for classification problem in XGBoost, SVM, Random Forest Classifier, and ensemble method
+* Designed & Implemented Data Preprocessing Pipeline with data preprocessing, data warehousing, and data prediction
+* Provided weekly analysis and presented the insight from dataset to clients
+* Generated the Dashboard with the analysis plots using Python Cufflinks, plotly, and Dash
+* Explained workflow to supervisor and received feedbacks
+* Built statistical testing framework to overcome challenges of data quality
+In terms of my academic background, I received my **Master Degree** in **Computer Science, Big Data at Simon Fraser University (SFU)**.
 
-More broadly, I'm interested in applying **personalized medicine approaches for public health**.
-I'm also passionate about making local impact to move our society toward a more just ideal.
-That means learning about and working for increased **diversity and equity in STEM** and **technical approaches for social good**.
 
-During my PhD, I was an active leader in my department and at MIT, advocating for graduate students through diversity, equity and inclusion efforts and as a trained conflict coach for my peers.
-I'm especially proud of having co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap) and co-written the BE Department's [Community Values Statement](http://be.mit.edu/about/department-values-statement).
-Through my training to become a [BE REF](http://berefs.com), I learned **conflict management** skills that have positively impacted almost every aspect of my life.
+As an Data enthusiast, I am passionate in deepening my knowledge in data science field by reading the latest technology news, knowing the latest model
+in NLP or Computer vision field, and getting the insight of innovative ideas using machine learning technique in daily lives. Personally, I get
+motivated by reading others' blogs of machine learning articles and hosting personal projects on Cloud infrastructure.
+**My personality is listed as below**
+* Self driven learner with the completion of several online courses and achievement of certificate in Coursera, DataCamp, and Udemy
+* Looked for more challenges and being a passionate problem-solver with experiences of Hackathons
+* Collaborative team player that makes most of team spirit and always enjoy working with a team
+* Always found several solutions to determine the best approach to solve problems
+* Believed everything is possible and willing to try it out
 
-When I'm not doing those things, I'm probably outside chasing after a **frisbee**.
-Through my involvement in the sport first in [Cambodia](http://www.phnompenhpost.com/post-weekend/unconventional-sport-finds-unlikely-home-cambodia) and now on [MIT's women's team](http://scripts.mit.edu/~womens-ult/), I've become passionate about sport's ability to drive [social change](https://www.facebook.com/youthultimateproject) and push [gender equity](https://thenib.com/the-sports-wage-gap-needs-to-close) forward.
 
-Before moving to Boston, I lived for a year in **Cambodia** working for [Engineering World Health](http://www.ewh.org/) as a [Luce Scholar](http://www.hluce.org/lsprogram.aspx).
-Before that, I studied biomedical engineering at Columbia University.
+During my leisure time, I was an active learner to take several online courses from watching Youtube channel, **Coursera**, **Udemy**, and **Udacity**.
+Recently, I am a beginner of writing blog posts related in data science field. I am active to keep producing more comprehensive and structured articles
+in the coverage of **Statistical Learning**, **Data Infrastructure**, **Data Analytics**, and **Data Modelling**.
+I have posted all my articles in medium website[Denise Medium Website](https://medium.com/@denisechendd). If you are interested, feel free to visit my medium website and welcome to leave the comment or feedbacks. :grin:

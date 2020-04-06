@@ -23,7 +23,7 @@ In terms of my academic background, I received my **Master Degree** in **Compute
 As an Data enthusiast, I am passionate in deepening my knowledge in data science field by reading the latest technology news, knowing the latest model
 in NLP or Computer vision field, and getting the insight of innovative ideas using machine learning technique in daily lives. Personally, I get
 motivated by reading others' blogs of machine learning articles and hosting personal projects on Cloud infrastructure.
-### My personality is listed as below**
+### My personality is listed as below
 * Self driven learner with the completion of several online courses and achievement of certificate in Coursera, DataCamp, and Udemy
 * Looked for more challenges and being a passionate problem-solver with experiences of Hackathons
 * Collaborative team player that makes most of team spirit and always enjoy working with a team
@@ -34,4 +34,4 @@ motivated by reading others' blogs of machine learning articles and hosting pers
 During my leisure time, I was an active learner to take several online courses from watching Youtube channel, **Coursera**, **Udemy**, and **Udacity**.
 Recently, I am a beginner of writing blog posts related in data science field. I am active to keep producing more comprehensive and structured articles
 in the coverage of **Statistical Learning**, **Data Infrastructure**, **Data Analytics**, and **Data Modelling**. <br>
-I have posted all my articles in medium website **[Denise Medium Website]**(https://medium.com/@denisechendd). If you are interested, feel free to visit my medium website and welcome to leave the comment or feedbacks. 😄
+I have posted all my articles in medium website [Denise Medium Website](https://medium.com/@denisechendd). If you are interested, feel free to visit my medium website and welcome to leave the comment or feedbacks. 😄

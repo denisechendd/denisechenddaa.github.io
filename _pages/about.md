@@ -16,7 +16,8 @@ I'm a full-time data scientist at Statistics Canada.
 * Provided weekly analysis and presented the insight from dataset to clients
 * Generated the Dashboard with the analysis plots using Python Cufflinks, plotly, and Dash
 * Explained workflow to supervisor and received feedbacks
-* Built statistical testing framework to overcome challenges of data quality <br>
+* Built statistical testing framework to overcome challenges of data quality
+
 In terms of my academic background, I received my **Master Degree** in **Computer Science, Big Data at Simon Fraser University (SFU)**.
 
 

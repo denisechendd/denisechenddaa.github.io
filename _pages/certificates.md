@@ -105,3 +105,15 @@ author_profile: true
 **October, 2019 (DataCamp)**
 
 <img src="/images/Online_certi/certificate_16.jpg" width="80%" height="80%">
+
+## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+
+**April, 2020 (DataCamp)**
+
+<img src="/images/Online_certi/certificate_17.jpg" width="80%" height="80%">
+
+## Convolutional Neural Networks in TensorFlow
+
+**May, 2020 (DataCamp)**
+
+<img src="/images/Online_certi/certificate_18.jpg" width="80%" height="80%">

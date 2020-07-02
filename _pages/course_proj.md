@@ -12,8 +12,7 @@ As for recommendation system for Yelp existing users, they just simply input use
 social network.
 
 ### Recommendation Systems:
-Different methods of a recommender system:   <br>
-    **1. Content-Based Recommender:** focus on properties of items. To solve the cold-start problem, we added recommendation by key words search. We feed each word of review into vectors.
+**1. Content-Based Recommender:** focus on properties of items. To solve the cold-start problem, we added recommendation by key words search. We feed each word of review into vectors.
     Similarity of items is determined by measuring the similarity in the properties. We use 2 methods of content-based and compare the performance of similarity score through cosine-similarity formula.  <br>
 * TFIDF-LDA  (Output topics from the vector of words)
 - Word2Vec (Neural network to place similar words together with nearby vextor space)
@@ -26,10 +25,10 @@ Different methods of a recommender system:   <br>
 **4. Friends social network:** choose to recommend restaurants as being top ranked by user's friends (4 or 5 stars).
 
 ### Github Link:
-Github Link : https://github.com/denisechendd/course_project/tree/master/yelp_recommend
+[Github Link](https://github.com/denisechendd/course_project/tree/master/yelp_recommend)
 
 ### Report Link:
-Report Link : https://github.com/denisechendd/course_project/blob/master/yelp_recommend/Yelp_Project_Final_Report.pdf
+[Report Link](https://github.com/denisechendd/course_project/blob/master/yelp_recommend/Yelp_Project_Final_Report.pdf)
 
 
 ## Advanced Deep Learning with Keras in Python

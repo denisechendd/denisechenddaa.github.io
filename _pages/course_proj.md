@@ -76,9 +76,9 @@ Specifically, we perform topic modeling on news articles to discover the general
 The importance of equal participation of women in politics, and especially in decision-making positions, is not simply about equal numbers; it’s about cultivating an environment that values women’s perspectives, recognizes women as change-makers and leverages differences to improve democratic governance. Over the last few years, we have seen a positive trend in the number of women being elected in various parliaments across the globe. As part of this project, we wanted to create an interactive visualization that shows the journey female parliamentarians from across the globe, have travelled since the year 1997.
 
 ### Visualization Elements:
-**1. Representation:**
-**2. Presentation:**
-**3. Interaction:**
+**1. Representation:** <br>
+**2. Presentation:** <br>
+**3. Interaction:** <br>
 **4. Exploratory Data analysis and Tasks:**
 
 ### Github Link:

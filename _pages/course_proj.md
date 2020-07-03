@@ -67,3 +67,25 @@ Specifically, we perform topic modeling on news articles to discover the general
 
 ### Report Link:
 [Report Link](https://github.com/denisechendd/course_project/blob/master/StockPredict/report.pdf)
+
+### Youtube Video
+[Video Link](https://youtu.be/b5wkez0ENVk)
+
+## CMPT767-Project-Visualization
+### Introduction:
+The importance of equal participation of women in politics, and especially in decision-making positions, is not simply about equal numbers; it’s about cultivating an environment that values women’s perspectives, recognizes women as change-makers and leverages differences to improve democratic governance. Over the last few years, we have seen a positive trend in the number of women being elected in various parliaments across the globe. As part of this project, we wanted to create an interactive visualization that shows the journey female parliamentarians from across the globe, have travelled since the year 1997.
+
+### Visualization Elements:
+**1. Representation:**
+**2. Presentation:**
+**3. Interaction:**
+**4. Exploratory Data analysis and Tasks:**
+
+### Github Link:
+[Github Link](https://github.com/denisechendd/course_project/tree/master/Visualization)
+
+### Report Link:
+[Report Link](https://github.com/denisechendd/course_project/blob/master/Visualization/CMPT%20767%20%E2%80%93%20Visualization%20Report.pdf)
+
+### Youtube Video
+[Video Link](https://youtu.be/L3XZHmBvLTw)
